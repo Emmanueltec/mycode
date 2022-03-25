@@ -1,0 +1,61 @@
+.every{
+    margin-right: -573px;
+}
+.janitor{
+    display: block;
+    position: relative;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.post{
+    display: block;
+    margin-left: 44px;
+    margin-top: 10px;
+}
+.cust{
+    margin-right: -557px;
+}
+h2{
+    margin-top: 140px;
+}
+.simple{
+    margin-right: 502px !important;
+}
+.able{
+    margin-right: 522px !important;
+}
+.secure{
+    margin-right: 220px;
+    margin-top: 50px;
+}
+.rep{
+    margin-right: -370px;
+    margin-bottom:65px;
+}
+.secure, .simple, .able{
+    text-align: right;
+    margin-right: 480px;
+}
+/*.every, .janitor, .rep, .cust, .post{
+    text-align: right;
+    margin-right: 300px;
+}*/
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.gle, .tan1{
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+}
+.tan1{
+    margin-left: 590px;
+    margin-top: -295px;
+}
+.gle{
+    margin-top: -245px;
+    
+    
+}
+

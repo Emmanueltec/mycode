@@ -1,0 +1,64 @@
+.deep{
+    display: block;
+    margin-top: 10px;
+}
+.eget{
+    display: block;
+    margin-top: 10px;
+}
+.vice{
+    margin-top: 250px;
+}
+.nite{
+    display: block;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.noon{
+    display: block;
+    margin-top: -10px;
+    margin-left: -2px;
+    
+}
+.rest{
+    margin-top: 60px;
+    margin-left: 700px;
+    position: absolute;
+}
+.vec{
+    display: block;
+    margin-top: 47px;
+    margin-left: 688px;
+    position: absolute;
+}
+.sian{
+    margin-top: 50px;
+    margin-left: 55px;
+}
+.ver{
+    display: block;
+    margin-top: 10px;
+}
+.earn{
+    display: block;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+#best{
+    background-color: blueviolet;
+    text-align: left;
+    width: 300px;
+     height: 200px;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: -10px;
+    font-size: small;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 60px;
+    border-top: 6px solid black;
+    
+}

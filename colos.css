@@ -1,0 +1,143 @@
+.dot{
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.kue{
+    display: block;
+    margin-top: -10px;
+    margin-left: 10px;
+    
+}
+.fala{
+    margin-top: 50px;
+    text-align: center;
+}
+.gid{
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.john{
+    display: block;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+#dan{
+    background-color: blueviolet;
+    text-align: left;
+    width: 300px;
+     height: 200px;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: -10px;
+    font-size: small;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-bottom: 300px;
+    
+}
+.ness{
+    display: block;
+}
+#ayo{
+    margin-bottom: 100px;
+}
+.vic{
+    margin-top: -20px;
+}
+.busuyi{
+    margin-left: 75px;
+}
+.emma{
+    margin-left: 75px;
+}
+.tanko{
+    margin-left: 75px;
+}
+.cookey{
+    margin-left: 75px;
+}
+.ruth{
+    font-size: 60px;
+    
+}
+.ife{
+    margin-top: 100px;
+}
+.presh{
+    margin-bottom: -300px;
+}
+.grace{
+    margin-top: 100px;
+}
+.ubong{
+    margin-top: 100px;
+}
+.bene{
+    font-size: 60px;
+}
+.naza{
+    font-size: 60px;
+}
+.debo{
+    font-size: 60px;
+}
+.falade{
+    width: 20px;
+    height: 20px;
+    margin-top: 50px;
+}
+.busuyi, .emma, .tanko, .cookey{
+    display: inline-table
+}
+.nice{
+    margin-top: 100px;
+    margin-left: -50px;
+}
+.agc{
+    text-align: left;
+    display: block;
+    margin-top: 50px;
+    text-transform: capitalize;
+    font-size: larger;
+    margin-left: 60px;
+}
+.lod{
+    margin-left: 10px;
+    display: block;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+.pray{
+    margin-left: 40px;
+    display: block;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-size: xx-large;
+    color: #d2691e;
+}
+.tac{
+    color: blue;
+}
+.main{
+    margin-left: 60px;
+    display: block;
+    margin-top: 50px;
+}
+.usher{
+    margin-left: 10px;
+    display: block;
+    margin-top: 50px;
+    color: #8a2be2;
+    font-size: xx-large;
+}
+.agc, .lod, .pray, .main, .usher, .hepz{
+    display: inline-table;
+    text-align: center;
+    margin-left: 80px;
+}

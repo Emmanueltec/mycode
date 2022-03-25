@@ -1,0 +1,44 @@
+.peep{
+    display: block;
+    margin-top: 10px;
+}
+.look{
+    display: block;
+    margin-top: -10px;
+    margin-left: -2px;
+    
+}
+.sack{
+    margin-top: 50px;
+    margin-left: 55px;
+}
+.loud{
+    display: block;
+    margin-top: 10px;
+}
+.net{
+    display: block;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+#geo{
+    background-color: blueviolet;
+    text-align: left;
+    width: 300px;
+     height: 200px;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: -10px;
+    font-size: small;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-bottom: 300px;
+    
+    
+}
+#geo, #best, #dan{
+    display: inline-table ;
+}

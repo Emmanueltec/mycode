@@ -1,0 +1,126 @@
+body{
+    padding: 0 0;
+    margin: 0 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    text-align: center;
+    
+}
+header{
+    box-shadow: 0 0 30px #000;
+    padding: 15px;
+}
+header li{
+    display: inline;
+    padding-left: 35px;
+    
+}
+header li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 13px;
+    
+    
+}
+header ul #revive a{
+    color: #fff;
+    background-color: #00ff;
+    border-radius: 5px;
+    float: right;
+    position: relative;
+    margin-right: 200px;
+    
+    
+}
+/*img{
+    position: absolute;
+    width: 1440px;
+    height: 684px;
+    left: -2;
+    top: 0px;
+    background: (180deg, rgba(102,102,102, 0.6) -0.35%, rgba(41,41,41,0) 75.5%);
+}
+*/
+header ul .logo img{
+    position: relative;
+    margin-bottom: -7px;
+}
+hr{
+    margin-left: 220px;
+    margin-right: 195px;
+    background-color: #fff;
+    margin-top: 25px;
+}
+header ul .vector img{
+    position: relative;
+    margin-right: -110px;
+    margin-bottom: -10px;
+    
+}
+.product{
+    color: #fff;
+    background-color: #00ff;
+    border-radius: 5px;
+    font-size: large;
+    padding: 8px 8px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: -80px;
+    
+    
+    
+}
+ header h1{
+    color: #fff;
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 197px;
+    
+    
+    
+    
+}
+p{
+    color: #fff;
+    margin-top: -2px;
+}
+
+header{
+    background-image: url(Rectpic.png);
+    background-repeat: no-repeat;
+    height: 684px;
+    width: 1440px;
+    left: -10px;
+    background-position: center;
+    background-size: cover;
+    
+}
+.wod{
+    margin: 0 0;
+    background-color: #4169e1;
+    margin-top: 90px;
+    height: 220px;
+}
+.por{
+    display: block;
+    margin-top: 50px;
+    position: relative;
+    padding-top: 80px;
+    font-size: xx-large;
+}
+.run a{
+    display: inline;
+    margin-top: 40px;
+    background-color: #fff;
+    position: absolute;
+    padding: 10px 10px;
+    margin-left: -50px;
+    border-radius: 4px;
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration: underline;
+    color: #4169e1;
+}
+
